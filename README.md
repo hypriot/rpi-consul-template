@@ -2,7 +2,10 @@
 
 Raspberry Pi compatible Docker Image of [Consul Template](https://github.com/hashicorp/consul-template).
 
-## How to use ##
+## How to run
+See: https://hub.docker.com/r/hypriot/rpi-consul-template/
+
+## How to build
 The repository is supposed to be used with the continuous integration tool [drone](https://drone.io/). 
 Many functions can only be executed, if all environment variables in the Makefile are set.
 
